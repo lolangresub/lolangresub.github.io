@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lolangresub.github.io/sitemap
+Sitemap: https://lolangresub.github.io/app/sitemap
+Sitemap: https://lolangresub.github.io/assets/sitemap
+Sitemap: https://lolangresub.github.io/css/sitemap
+Sitemap: https://lolangresub.github.io/includes/sitemap
+Sitemap: https://lolangresub.github.io/item/sitemap
+Sitemap: https://lolangresub.github.io/src/sitemap
